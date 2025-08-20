@@ -1,2 +1,2 @@
 # TG_BOT
-Smorodnikov where my money -Vlad Tsydenov
+Smorodnikov where my money
